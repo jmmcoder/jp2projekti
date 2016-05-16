@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# -*- encoding: utf-8 -*-
 
 # Python-ohjelma, joka lisää dataa MySQL-tietokantaan
 # Lisättävä tieto haetaan sensoriohjelmalta 
